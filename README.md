@@ -1,4 +1,4 @@
-# Verteilte Systeme (VSY) Praktikum im 4. Semester
+# Verteilte Systeme (VSY) Praktikum im 3. Semester
 
 #### Chatprogramm
 - Multithreaded (Threadpool)
